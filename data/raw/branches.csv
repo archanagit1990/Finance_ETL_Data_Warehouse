@@ -1,0 +1,11 @@
+branch_id,branch_name,city,state,region
+B001,Kochi Central,Kochi,Kerala,South
+B002,Trivandrum Main,Trivandrum,Kerala,South
+B003,Bangalore Central,Bangalore,Karnataka,South
+B004,Chennai Main,Chennai,Tamil Nadu,South
+B005,Hyderabad Central,Hyderabad,Telangana,South
+B006,Mumbai Main,Mumbai,Maharashtra,West
+B007,Pune Central,Pune,Maharashtra,West
+B008,Delhi Central,Delhi,Delhi,North
+B009,Kolkata Main,Kolkata,West Bengal,East
+B010,Ahmedabad Central,Ahmedabad,Gujarat,West

@@ -1,0 +1,4 @@
+﻿status_code,status_description
+SUCCESS,Successful Transaction
+PENDING,Transaction Pending
+FAILED,Failed Transaction
